@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "222507212854",
+    "firebase_url": "https://petrolhub-e37cd.firebaseio.com",
+    "project_id": "petrolhub-e37cd",
+    "storage_bucket": "petrolhub-e37cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222507212854:android:7041c63941cf9d53",
+        "android_client_info": {
+          "package_name": "in.spikeysanju.petrolhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222507212854-gkt2gl4lribvk3qf85gipfk1p2qf4sct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.spikeysanju.petrolhub",
+            "certificate_hash": "5d4345d8c3b4a3c76962c28ea08bbf4adde4f046"
+          }
+        },
+        {
+          "client_id": "222507212854-h22rfh9b5h4dbnmt25dntget0kd6r2lt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.spikeysanju.petrolhub",
+            "certificate_hash": "0329de411274cc346bc36f8cb3e44926652771ca"
+          }
+        },
+        {
+          "client_id": "222507212854-8j6akjg62vlrjd7falg00ri9it3flebt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDQjQQM7puNPekTnIpJlE_D-L6b7Ok3Qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222507212854-8j6akjg62vlrjd7falg00ri9it3flebt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222507212854:android:fb394e77c255553d",
+        "android_client_info": {
+          "package_name": "in.spikeysanju.petrolhubadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222507212854-omleh6r5ifnp1b7hskhqituifita2p34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.spikeysanju.petrolhubadmin",
+            "certificate_hash": "5d4345d8c3b4a3c76962c28ea08bbf4adde4f046"
+          }
+        },
+        {
+          "client_id": "222507212854-8j6akjg62vlrjd7falg00ri9it3flebt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDQjQQM7puNPekTnIpJlE_D-L6b7Ok3Qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222507212854-8j6akjg62vlrjd7falg00ri9it3flebt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
